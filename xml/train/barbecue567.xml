@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>barbecue567.png</filename>
+	<path>D:\tensorflow\workspace\yolov3-gpu\origin_image_xml\image\barbecue567.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>97</ymin>
+			<xmax>116</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

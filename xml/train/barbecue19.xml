@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>barbecue19.png</filename>
+	<path>D:\tensorflow\workspace\training_demo\images\barbecue19.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>55</ymin>
+			<xmax>131</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
